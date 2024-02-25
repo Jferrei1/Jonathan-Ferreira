@@ -1,6 +1,7 @@
 <h1>Hi, I'm Jonathan!
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>(https://github.com/Jferrei1/Jonathan-Ferreira/files/14397388/DOC-20240225-WA0003.docx)
 
+- <b>Security Audit </b>
 <h2>Certifications</h2>
 [Google Cyber Security ]
 <h2> 🤳 Connect with me:</h2>
